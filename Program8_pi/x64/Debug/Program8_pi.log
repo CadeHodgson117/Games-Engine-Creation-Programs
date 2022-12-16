@@ -1,0 +1,3 @@
+﻿  Program8_pi.cpp
+C:\Users\Cedan\source\repos\Program8_pi\Program8_pi.cpp(9,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Program8_pi.vcxproj -> C:\Users\Cedan\source\repos\Program8_pi\x64\Debug\Program8_pi.exe

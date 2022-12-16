@@ -1,0 +1,3 @@
+﻿  starry output.cpp
+C:\Users\Cedan\Desktop\starry output\starry output\starry output.cpp(14,19): warning C4553: '==': result of expression not used; did you intend '='?
+  starry output.vcxproj -> C:\Users\Cedan\Desktop\starry output\x64\Debug\starry output.exe
